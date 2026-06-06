@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "setting_key": "dm_messenger_url",
+    "setting_value": "https://m.me/IRISHVONBEETLE?ref=iris_mirror_light",
+    "updated_at": "2026-06-06 17:34:36"
+  },
+  {
+    "id": 2,
+    "setting_key": "dm_fallback_email",
+    "setting_value": "irisrobijn@online.nl",
+    "updated_at": "2026-06-06 17:34:36"
+  },
+  {
+    "id": 3,
+    "setting_key": "default_language",
+    "setting_value": "en",
+    "updated_at": "2026-06-06 17:34:36"
+  },
+  {
+    "id": 4,
+    "setting_key": "facebook_username",
+    "setting_value": "IRISHVONBEETLE",
+    "updated_at": "2026-06-06 17:34:36"
+  },
+  {
+    "id": 5,
+    "setting_key": "analfabetenmodus_enabled",
+    "setting_value": "true",
+    "updated_at": "2026-06-06 20:32:06"
+  },
+  {
+    "id": 6,
+    "setting_key": "databesparing_default",
+    "setting_value": "aan",
+    "updated_at": "2026-06-06 20:37:30"
+  }
+]
