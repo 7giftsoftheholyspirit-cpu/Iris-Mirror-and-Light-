@@ -1,0 +1,162 @@
+[
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 1,
+    "theme": "troost",
+    "verse_reference": "Psalm 23:4",
+    "verse_text_en": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me.",
+    "verse_text_nl": "Al ging ik door een dal van diepe duisternis, ik vrees geen kwaad, want U bent bij mij."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 2,
+    "theme": "kracht",
+    "verse_reference": "Jesaja 41:10",
+    "verse_text_en": "Do not fear, for I am with you. Do not be dismayed, for I am your God.",
+    "verse_text_nl": "Wees niet bang, want Ik ben bij je. Dwaal niet rond, want Ik ben je God."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 3,
+    "theme": "troost",
+    "verse_reference": "MatteÃ¼s 11:28",
+    "verse_text_en": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "verse_text_nl": "Kom naar Mij, allen die vermoeid en belast zijn, en Ik zal u rust geven."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 4,
+    "theme": "kracht",
+    "verse_reference": "Filippenzen 4:13",
+    "verse_text_en": "I can do all things through Him who strengthens me.",
+    "verse_text_nl": "Ik vermag alle dingen door Hem die mij kracht geeft."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 5,
+    "theme": "vrede",
+    "verse_reference": "Psalm 46:11",
+    "verse_text_en": "Be still and know that I am God.",
+    "verse_text_nl": "Wees stil en weet dat Ik God ben."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 6,
+    "theme": "geduld",
+    "verse_reference": "Spreuken 3:5-6",
+    "verse_text_en": "Trust in the Lord with all your heart and lean not on your own understanding.",
+    "verse_text_nl": "Vertrouw op de Heer met heel je hart en steun niet op eigen inzicht."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 7,
+    "theme": "hoop",
+    "verse_reference": "Romeinen 8:28",
+    "verse_text_en": "And we know that in all things God works for the good of those who love him.",
+    "verse_text_nl": "En wij weten dat voor hen die God liefhebben, alle dingen meewerken ten goede."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 8,
+    "theme": "liefde",
+    "verse_reference": "1 KorintiÃ«rs 13:4-7",
+    "verse_text_en": "Love is patient, love is kind. It does not envy.",
+    "verse_text_nl": "De liefde is geduldig, de liefde is vriendelijk. Zij is niet jaloers."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 9,
+    "theme": "dankbaarheid",
+    "verse_reference": "Psalm 139:14",
+    "verse_text_en": "I praise you because I am fearfully and wonderfully made.",
+    "verse_text_nl": "Ik loof U omdat ik ontzagwekkend wonderlijk gemaakt ben."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 10,
+    "theme": "hoop",
+    "verse_reference": "Maleachi 3:10",
+    "verse_text_en": "Bring the whole tithe into the storehouse and see if I will not pour out a blessing.",
+    "verse_text_nl": "Breng de hele tiende naar de voorraadkamer en zie of Ik geen zegen over je uitgiet."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 11,
+    "theme": "troost",
+    "verse_reference": "Psalm 34:19",
+    "verse_text_en": "The Lord is close to the brokenhearted.",
+    "verse_text_nl": "De Heer is nabij het gebrokene van hart."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 12,
+    "theme": "kracht",
+    "verse_reference": "Jesaja 40:31",
+    "verse_text_en": "Those who hope in the Lord will renew their strength.",
+    "verse_text_nl": "Wie op de Heer vertrouwen, krijgen nieuwe kracht."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 13,
+    "theme": "liefde",
+    "verse_reference": "Lucas 6:38",
+    "verse_text_en": "Give, and it will be given to you.",
+    "verse_text_nl": "Geef en u zal gegeven worden."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 14,
+    "theme": "kracht",
+    "verse_reference": "Psalm 27:1",
+    "verse_text_en": "The Lord is my light and my salvation, whom shall I fear?",
+    "verse_text_nl": "De Heer is mijn licht en mijn redding, voor wie zou ik vrezen?"
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 15,
+    "theme": "vrede",
+    "verse_reference": "MatteÃ¼s 6:34",
+    "verse_text_en": "Do not worry about tomorrow.",
+    "verse_text_nl": "Maak je geen zorgen over de dag van morgen."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 16,
+    "theme": "hoop",
+    "verse_reference": "Psalm 30:6",
+    "verse_text_en": "Weeping may stay for the night, but rejoicing comes in the morning.",
+    "verse_text_nl": "De avond brengt geween, de morgen gejuich."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 17,
+    "theme": "hoop",
+    "verse_reference": "Jeremia 29:11",
+    "verse_text_en": "For I know the plans I have for you, plans to prosper you and not to harm you.",
+    "verse_text_nl": "Ik ken de gedachten die Ik over u koester, gedachten van vrede en niet van onheil."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 18,
+    "theme": "vrede",
+    "verse_reference": "Kolossenzen 3:15",
+    "verse_text_en": "Let the peace of Christ rule in your hearts.",
+    "verse_text_nl": "Laat de vrede van Christus heersen in uw hart."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 19,
+    "theme": "vergeving",
+    "verse_reference": "Psalm 103:12",
+    "verse_text_en": "As far as the east is from the west, so far has he removed our transgressions from us.",
+    "verse_text_nl": "Zo ver het oosten is van het westen, zo ver heeft Hij onze overtredingen van ons verwijderd."
+  },
+  {
+    "created_at": "2026-06-06 20:03:02",
+    "id": 20,
+    "theme": "liefde",
+    "verse_reference": "MatteÃ¼s 18:20",
+    "verse_text_en": "For where two or three gather in my name, there am I with them.",
+    "verse_text_nl": "Waar twee of drie in Mijn naam bijeen zijn, daar ben Ik in hun midden."
+  }
+]
