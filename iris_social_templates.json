@@ -1,0 +1,26 @@
+[
+  {
+    "created_at": "2026-06-06 16:25:28",
+    "id": 1,
+    "platform": "facebook",
+    "template_text": "Ik vond mijn spiegel. Jij ook? ðªâ¨ [link]"
+  },
+  {
+    "created_at": "2026-06-06 16:25:28",
+    "id": 2,
+    "platform": "instagram",
+    "template_text": "Van chaos naar marvelous. Probeer Iris gratis. ð [link]"
+  },
+  {
+    "created_at": "2026-06-06 16:25:28",
+    "id": 3,
+    "platform": "whatsapp",
+    "template_text": "Hey! Ik gebruik Iris â een AI die je helpt je eigen antwoorden te vinden. Probeer het eens: [link]"
+  },
+  {
+    "created_at": "2026-06-06 16:25:28",
+    "id": 4,
+    "platform": "email",
+    "template_text": "Hoi! Ik wilde je iets laten zien. Iris is een bijzondere plek â een spiegel, een community, een beweging. Kijk eens: [link]"
+  }
+]
