@@ -1,0 +1,152 @@
+[
+  {
+    "card_name": "The Mirror",
+    "card_name_nl": "De Spiegel",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "vertrek",
+    "id": 1,
+    "image_description": "A still lake reflecting moonlight",
+    "light_meaning": "Je ziet jezelf helder. Acceptatie.",
+    "shadow_meaning": "Je vermijdt je eigen reflectie."
+  },
+  {
+    "card_name": "The Flame",
+    "card_name_nl": "De Vlam",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "beproeving",
+    "id": 2,
+    "image_description": "A single candle in darkness",
+    "light_meaning": "Passie en moed branden in je.",
+    "shadow_meaning": "Woede of uitputting verteren je."
+  },
+  {
+    "card_name": "The Seed",
+    "card_name_nl": "Het Zaad",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "vertrek",
+    "id": 3,
+    "image_description": "A seed breaking through soil",
+    "light_meaning": "Iets nieuws wil groeien.",
+    "shadow_meaning": "Je houdt iets klein uit angst."
+  },
+  {
+    "card_name": "The Bridge",
+    "card_name_nl": "De Brug",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "beproeving",
+    "id": 4,
+    "image_description": "An ancient stone bridge over mist",
+    "light_meaning": "Je verbindt twee werelden.",
+    "shadow_meaning": "Je staat vast tussen twee keuzes."
+  },
+  {
+    "card_name": "The Storm",
+    "card_name_nl": "De Storm",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "beproeving",
+    "id": 5,
+    "image_description": "Lightning illuminating a dark landscape",
+    "light_meaning": "Zuivering en doorbraak.",
+    "shadow_meaning": "Chaos en verlies van controle."
+  },
+  {
+    "card_name": "The Garden",
+    "card_name_nl": "De Tuin",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "terugkeer",
+    "id": 6,
+    "image_description": "A blooming garden at sunrise",
+    "light_meaning": "Overvloed en rust.",
+    "shadow_meaning": "Verwaarlozing van wat je hebt."
+  },
+  {
+    "card_name": "The Key",
+    "card_name_nl": "De Sleutel",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "terugkeer",
+    "id": 7,
+    "image_description": "A golden key on a velvet cushion",
+    "light_meaning": "Een antwoord ligt binnen handbereik.",
+    "shadow_meaning": "Je zoekt buiten wat binnen is."
+  },
+  {
+    "card_name": "The Moon",
+    "card_name_nl": "De Maan",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "beproeving",
+    "id": 8,
+    "image_description": "A full moon over still water",
+    "light_meaning": "IntuÃ¯tie en dromen leiden je.",
+    "shadow_meaning": "Illusies en angst in het donker."
+  },
+  {
+    "card_name": "The Sun",
+    "card_name_nl": "De Zon",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "terugkeer",
+    "id": 9,
+    "image_description": "Warm sunlight through tree branches",
+    "light_meaning": "Vreugde, helderheid, energie.",
+    "shadow_meaning": "Te veel willen schijnen voor anderen."
+  },
+  {
+    "card_name": "The Tower",
+    "card_name_nl": "De Toren",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "beproeving",
+    "id": 10,
+    "image_description": "A tower struck by lightning, flowers growing from rubble",
+    "light_meaning": "Oude structuren vallen weg voor iets beters.",
+    "shadow_meaning": "Angst voor verandering."
+  },
+  {
+    "card_name": "The River",
+    "card_name_nl": "De Rivier",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "vertrek",
+    "id": 11,
+    "image_description": "A gentle river flowing through a meadow",
+    "light_meaning": "Laat los en ga mee met de stroom.",
+    "shadow_meaning": "Weerstand tegen wat komt."
+  },
+  {
+    "card_name": "The Star",
+    "card_name_nl": "De Ster",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "terugkeer",
+    "id": 12,
+    "image_description": "A bright star in a clear night sky",
+    "light_meaning": "Hoop en inspiratie na duisternis.",
+    "shadow_meaning": "Onbereikbare verwachtingen."
+  },
+  {
+    "card_name": "The Root",
+    "card_name_nl": "De Wortel",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "vertrek",
+    "id": 13,
+    "image_description": "Deep roots of an ancient tree",
+    "light_meaning": "Stevigheid, grounding, thuiskomen.",
+    "shadow_meaning": "Vastzitten, niet kunnen bewegen."
+  },
+  {
+    "card_name": "The Phoenix",
+    "card_name_nl": "De Feniks",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "terugkeer",
+    "id": 14,
+    "image_description": "A phoenix rising from golden flames",
+    "light_meaning": "Hergeboorte uit as.",
+    "shadow_meaning": "Angst om los te laten wat moet sterven."
+  },
+  {
+    "card_name": "The Child",
+    "card_name_nl": "Het Kind",
+    "created_at": "2026-06-06 20:03:02",
+    "hero_journey_phase": "vertrek",
+    "id": 15,
+    "image_description": "A child looking up at stars",
+    "light_meaning": "Onschuld, verwondering, nieuw begin.",
+    "shadow_meaning": "Het gewonde kind dat gezien wil worden."
+  }
+]
